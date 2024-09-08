@@ -6,3 +6,9 @@ body{
 div{
     margin-bottom: 20px;
 }
+
+.statistics{
+    margin: auto;
+    margin-bottom:20px;
+    width:600px;
+}
